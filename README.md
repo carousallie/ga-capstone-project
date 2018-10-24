@@ -5,11 +5,7 @@ This project used Bayesian inference to predict the vote share Democratic candid
 ## Repository Contents
 1. Bayesian Inference and the Blue Wave Jupyter Notebook
 2. Capstone Presentation
-3. Assets
-  - data
-    - Senate polling data
-  - FEC data
-    - 2014 and 2016 Senate election results
+3. Assets - contains recent Senate polling data, and 2014 and 2016 Senate election results
 
 ## Notes
 - There were no polls available on Hawaii and Wyoming's candidates.
