@@ -14,3 +14,6 @@ This project used Bayesian inference to predict the vote share Democratic candid
 ## Data Sources
 - Prior election data comes from the FEC's 2014 and 2016 Official Senate Election Results
 - Polling data comes from FiveThirtyEight
+
+## Questions?
+Direct any questions to Allison Ragan via contact information at the conclusion of the presentation
