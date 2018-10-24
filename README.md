@@ -17,5 +17,5 @@ This project used Bayesian inference to predict the vote share Democratic candid
 
 ## Questions?
 Direct any questions to Allison Ragan. 
-Email: allison.n.ragan@gmail.com
-Twitter: @RaganAllie
+- Email: allison.n.ragan@gmail.com
+- Twitter: @RaganAllie
