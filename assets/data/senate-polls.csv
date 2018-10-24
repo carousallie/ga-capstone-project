@@ -1,0 +1,356 @@
+﻿RACE,POLLSTER,SAMPLE,DEMOCRAT,REPUBLICAN,REPUBLICAN_TWO
+WA,Public Policy Polling,675,0.52,0.36,N/A
+CA,Vox Populi Polling,500,0.55,0.45,N/A
+CA,Public Policy Institute of California,964,0.4,0.29,N/A
+CA,Ipsos,1021,0.44,0.24,N/A
+CA,Probolsky Research,900,0.37,0.29,N/A
+CA,Public Policy Institute of California,1020,0.46,0.24,N/A
+CA,SurveyUSA,559,0.46,0.24,N/A
+CA,USC Dornsife/LA Times,767,0.32,0.16,N/A
+CA,Probolsky Research,900,0.38,0.27,N/A
+NV,Emerson College,625,0.41,0.48,N/A
+NV,Siena College/New York Times,642,0.45,0.47,N/A
+NV,Marist College,574,0.43,0.45,N/A
+NV,CNN/SSRS,693,0.47,0.43,N/A
+NV,Ipsos,1039,0.43,0.46,N/A
+NV,Gravis Marketing,700,0.47,0.45,N/A
+NV,Suffolk University,500,0.42,0.41,N/A
+NV,Public Policy Polling ,528,0.48,0.43,N/A
+NV,Suffolk University,500,0.4,0.41,N/A
+NV,SurveyMonkey,992.2,0.49,0.47,N/A
+NV,Gravis Marketing,630,0.45,0.41,N/A
+NV,Public Policy Polling ,637,0.44,0.42,N/A
+NV,SurveyMonkey,1332,0.5,0.44,N/A
+NV,Mellman Group,600,0.39,0.4,N/A
+NV,Public Policy Polling ,720,0.44,0.39,N/A
+MT,Public Policy Polling ,594,0.49,0.45,N/A
+MT,Gravis Marketing,710,0.49,0.45,N/A
+MT,Axis Research ,480,0.44,0.44,N/A
+MT,Benenson Strategy Group,950,0.5,0.43,N/A
+MT,YouGov,453,0.47,0.45,N/A
+MT,University of Montana,466,0.56,0.32,N/A
+MT,WPA Intelligence ,600,0.45,0.47,N/A
+MT,Remington Research Group,2581,0.49,0.46,N/A
+MT,SurveyMonkey,929.4,0.54,0.44,N/A
+MT,Gravis Marketing,469,0.51,0.44,N/A
+UT,University of Utah,607,0.23,0.59,N/A
+UT,Dan Jones & Associates,809,0.29,0.55,N/A
+UT,Lighthouse Research,2400,0.19,0.59,N/A
+UT,University of Utah,654,0.2,0.58,N/A
+UT,Dan Jones & Associates,803,0.19,0.64,N/A
+UT,Dan Jones & Associates,600,0.21,0.72,N/A
+AZ,Change Research ,783,0.44,0.44,N/A
+AZ,YouGov,898,0.47,0.44,N/A
+AZ,OH Predictive Insights / MBQF,600,0.41,0.47,N/A
+AZ,Fox News,716,0.47,0.45,N/A
+AZ,Vox Populi Polling,702,0.49,0.52,N/A
+AZ,Suffolk University,500,0.45,0.42,N/A
+AZ,Latino Decisions,463,0.47,0.41,N/A
+AZ,Emerson College,650,0.45,0.39,N/A
+AZ,Marist College,564,0.47,0.44,N/A
+AZ,CNN/SSRS,761,0.5,0.43,N/A
+AZ,Ipsos,1016,0.47,0.44,N/A
+AZ,TargetSmart ,800,0.51,0.46,N/A
+AZ,Fox News,710,0.47,0.44,N/A
+AZ,Gravis Marketing,882,0.48,0.49,N/A
+AZ,OH Predictive Insights / MBQF,597,0.46,0.49,N/A
+AZ,Data Orbital,550,0.46,0.42,N/A
+AZ,OH Predictive Insights / MBQF,600,0.48,0.44,N/A
+AZ,Gravis Marketing,925,0.43,0.39,N/A
+AZ,SurveyMonkey,1209.2,0.5,0.46,N/A
+AZ,Emerson College,650,0.4,0.32,N/A
+AZ,YouGov,1001,0.41,0.34,N/A
+AZ,Marist College,839,0.49,0.38,N/A
+AZ,SurveyMonkey,1667,0.51,0.42,N/A
+AZ,OH Predictive Insights / MBQF,600,0.48,0.42,N/A
+AZ,Public Policy Polling ,547,0.46,0.41,N/A
+AZ,OH Predictive Insights / MBQF,600,0.46,0.45,N/A
+NM,NSON Opinion Strategy ,932,0.36,0.1,N/A
+NM,In Lux Research ,900,0.38,0.1,N/A
+NM,"Research & Polling, Inc.",966,0.47,0.26,N/A
+NM,Emerson College,500,0.39,0.11,N/A
+NM,Greenberg Quinlan Rosner ,500,0.48,0.33,N/A
+NM,GBA Strategies ,800,0.47,0.29,N/A
+NM,Tarrance Group ,500,0.41,0.34,N/A
+ND,Fox News,704,0.41,0.53,N/A
+ND,Strategic Research Associates,650,0.41,0.51,N/A
+ND,Fox News,701,0.44,0.48,N/A
+ND,SurveyMonkey,428,0.45,0.53,N/A
+ND,"Mason-Dixon Polling & Research, Inc.",625,0.44,0.48,N/A
+ND,Gravis Marketing,385,0.43,0.4,N/A
+ND,Tarrance Group ,500,0.44,0.49,N/A
+NE,Meeting Street Research ,500,0.34,0.51,N/A
+NE,Public Policy Polling ,1190,0.31,0.42,N/A
+TX,WPA Intelligence ,801,0.43,0.52,N/A
+TX,Siena College/New York Times,800,0.43,0.51,N/A
+TX,Quinnipiac University,730,0.45,0.54,N/A
+TX,YouGov,881,0.44,0.5,N/A
+TX,Emerson College,500,0.42,0.47,N/A
+TX,Public Policy Polling ,603,0.46,0.49,N/A
+TX,Public Policy Polling ,613,0.45,0.48,N/A
+TX,Vox Populi Polling,508,0.5,0.5,N/A
+TX,Quinnipiac University,807,0.45,0.54,N/A
+TX,Ipsos,992,0.47,0.45,N/A
+TX,Reform Austin ,1161,0.45,0.49,N/A
+TX,Rasmussen Reports/Pulse Opinion Research,800,0.44,0.47,N/A
+TX,Dixie Strategies,519,0.42,0.46,N/A
+TX,Emerson College,550,0.37,0.38,N/A
+TX,Marist College,759,0.45,0.49,N/A
+TX,Public Policy Polling ,797,0.42,0.46,N/A
+TX,Quinnipiac University,1118,0.43,0.49,N/A
+TX,Texas Lyceum,441,0.39,0.41,N/A
+TX,Gravis Marketing,602,0.42,0.51,N/A
+TX,YouGov,821,0.4,0.5,N/A
+TX,YouGov,1200,0.36,0.41,N/A
+TX,Greenberg Quinlan Rosner ,1000,0.43,0.49,N/A
+TX,Quinnipiac University,961,0.39,0.5,N/A
+TX,Baselice & Associates Inc. ,601,0.36,0.48,N/A
+TX,Public Policy Polling ,861,0.42,0.48,N/A
+TX,JMC Enterprises ,575,0.4,0.47,N/A
+TX,Quinnipiac University,1029,0.44,0.47,N/A
+TX,Public Policy Polling ,757,0.37,0.45,N/A
+TX,WPA Intelligence ,600,0.34,0.52,N/A
+MN,Change Research,1413,0.5,0.41,N/A
+MN,Marist College,637,0.62,0.33,N/A
+MN,"Mason-Dixon Polling & Research, Inc.",800,0.6,0.3,N/A
+MN,SurveyUSA,574,0.53,0.38,N/A
+MN,Suffolk University,500,0.54,0.34,N/A
+MN,Emerson College,500,0.5,0.26,N/A
+MN,BK Strategies ,1574,0.57,0.37,N/A
+MN_special,Change Research,1413,0.46,0.43,N/A
+MN_special,Marist College,637,0.54,0.38,N/A
+MN_special,"Mason-Dixon Polling & Research, Inc.",800,0.44,0.37,N/A
+MN_special,SurveyUSA,574,0.48,0.39,N/A
+MN_special,Suffolk University,500,0.44,0.37,N/A
+MN_special,Emerson College,500,0.32,0.28,N/A
+MN_special,Marist College,876,0.49,0.35,N/A
+MN_special,BK Strategies ,1574,0.48,0.39,N/A
+MO,Ipsos,1111,0.44,0.45,N/A
+MO,1st Tuesday Campaigns,1052,0.42,0.44,N/A
+MO,Fox News,683,0.45,0.45,N/A
+MO,McLaughlin & Associates ,600,0.44,0.52,N/A
+MO,Vox Populi Polling,869,0.49,0.51,N/A
+MO,CNN/SSRS,756,0.47,0.44,N/A
+MO,Remington Research Group,1555,0.46,0.48,N/A
+MO,YouGov,917,0.45,0.45,N/A
+MO,Trafalgar Group,1724,0.44,0.47,N/A
+MO,Fox News,675,0.45,0.43,N/A
+MO,Marist College,568,0.46,0.44,N/A
+MO,WPA Intelligence ,501,0.41,0.48,N/A
+MO,Remington Research Group,1785,0.47,0.47,N/A
+MO,WPA Intelligence ,602,0.42,0.43,N/A
+MO,Remington Research Group,1034,0.46,0.48,N/A
+MO,SurveyMonkey,953.4,0.49,0.49,N/A
+MO,Global Strategy Group ,804,0.47,0.41,N/A
+MO,TJP Strategies,898,0.48,0.44,N/A
+MO,Emerson College,600,0.45,0.45,N/A
+MO,TJP Strategies,1542,0.48,0.44,N/A
+MO,OnMessage Inc. ,600,0.46,0.47,N/A
+MO,Global Strategy Group ,,0.46,0.44,N/A
+MO,"Mason-Dixon Polling & Research, Inc.",625,0.45,0.44,N/A
+MO,Gravis Marketing,931,0.42,0.4,N/A
+MO,SurveyMonkey,1938,0.44,0.52,N/A
+MO,Public Policy Polling ,965,0.45,0.44,N/A
+MO,Remington Research Group,1122,0.45,0.49,N/A
+WI,Public Policy Polling ,816,0.52,0.42,N/A
+WI,Marquette Law School,799,0.53,0.43,N/A
+WI,Marist College,571,0.54,0.4,N/A
+WI,Ipsos,1109,0.52,0.39,N/A
+WI,Marquette Law School,614,0.53,0.42,N/A
+WI,Suffolk University,500,0.5,0.42,N/A
+WI,Marquette Law School,601,0.49,0.47,N/A
+WI,Emerson College,632,0.5,0.36,N/A
+WI,Marist College,906,0.55,0.38,N/A
+WI,SurveyMonkey,897.2,0.57,0.41,N/A
+WI,Marquette Law School,800,0.49,0.4,N/A
+WI,Public Policy Polling ,910,0.51,0.39,N/A
+MS,SurveyMonkey,985,0.29,0.43,N/A
+MS,Triumph Campaigns,2100,0.32,0.53,N/A
+MS,Triumph Campaigns,1000,0.31,0.48,N/A
+MS_special,SurveyMonkey,985,0.25,0.24,0.19
+MS_special,Neighborhood Research Corporation,304,0.28,0.27,0.18
+MS_special,Mellman Group ,600,0.27,0.29,0.17
+MS_special,Triumph Campaigns,2100,0.27,0.41,0.15
+MS_special,GS Strategy Group,500,0.22,0.3,0.17
+MS_special,Triumph Campaigns,1000,0.33,0.33,0.13
+MS_special,Chism Strategies ,603,0.34,0.27,0.21
+MI,Mitchell Research & Communications ,654,0.51,0.42,N/A
+MI,"Glengariff Group, Inc.",600,0.53,0.35,N/A
+MI,EPIC-MRA,600,0.56,0.33,N/A
+MI,Ipsos,1150,0.55,0.35,N/A
+MI,Target Insyght,800,0.55,0.4,N/A
+MI,Mitchell Research & Communications,1009,0.54,0.41,N/A
+MI,Strategic National,1000,0.53,0.35,N/A
+MI,"Glengariff Group, Inc.",600,0.56,0.33,N/A
+MI,Gravis Marketing,647,0.51,0.35,N/A
+MI,Strategic National,700,0.5,0.35,N/A
+IN,Fox News,695,0.43,0.41,N/A
+IN,Ipsos,1181,0.46,0.43,N/A
+IN,Fox News,677,0.43,0.45,N/A
+IN,Marist College,576,0.47,0.42,N/A
+IN,Trafalgar Group,1420,0.51,0.39,N/A
+IN,SurveyMonkey,850.2,0.46,0.51,N/A
+IN,Gravis Marketing,400,0.46,0.47,N/A
+TN,Siena College/New York Times,593,0.4,0.54,N/A
+TN,YouGov,871,0.42,0.5,N/A
+TN,Fox News,666,0.43,0.48,N/A
+TN,Garin-Hart-Yang Research Group ,600,0.47,0.45,N/A
+TN,SurveyMonkey,1609,0.42,0.42,N/A
+TN,Vox Populi Polling,567,0.51,0.49,N/A
+TN,CNN/SSRS,723,0.5,0.45,N/A
+TN,Triton Polling & Research,1038,0.45,0.48,N/A
+TN,Fox News,686,0.44,0.47,N/A
+TN,Marist College,538,0.48,0.46,N/A
+TN,Gravis Marketing,620,0.44,0.48,N/A
+TN,Emerson College,657,0.43,0.37,N/A
+TN,Public Policy Polling ,583,0.44,0.41,N/A
+TN,WPA Intelligence ,551,0.35,0.38,N/A
+TN,SurveyMonkey,918.2,0.4,0.58,N/A
+TN,Public Policy Polling ,609,0.46,0.43,N/A
+TN,SurveyMonkey,1638,0.48,0.47,N/A
+TN,"Mason-Dixon Polling & Research, Inc.",625,0.46,0.43,N/A
+TN,Garin-Hart-Yang Research Group ,601,0.51,0.41,N/A
+TN,Middle Tennessee State University,600,0.45,0.35,N/A
+TN,Public Policy Polling ,1014,0.46,0.41,N/A
+TN,WPA Intelligence ,500,0.39,0.44,N/A
+TN,Triton Polling & Research,1003,0.4,0.51,N/A
+TN,WPA Intelligence ,500,0.34,0.43,N/A
+TN,Gravis Marketing,563,0.42,0.4,N/A
+OH,Suffolk University,500,0.54,0.36,N/A
+OH,Baldwin Wallace University,1017,0.5,0.33,N/A
+OH,Triton Polling & Research,1003,0.53,0.42,N/A
+OH,Marist College,564,0.51,0.37,N/A
+OH,Ipsos,1074,0.5,0.39,N/A
+OH,Baldwin Wallace University,1048,0.49,0.32,N/A
+OH,Morning Consult,1592,0.47,0.31,N/A
+OH,Change Research ,822,0.46,0.42,N/A
+OH,SurveyMonkey,857.8,0.5,0.47,N/A
+OH,Marist College,778,0.51,0.38,N/A
+OH,Quinnipiac University,1082,0.51,0.34,N/A
+OH,Suffolk University,500,0.53,0.37,N/A
+OH,America First Policies ,400,0.45,0.41,N/A
+OH,Fallon Research & Communications,800,0.48,0.34,N/A
+OH,SurveyUSA,1408,0.52,0.38,N/A
+OH,Baldwin Wallace University,1011,0.41,0.29,N/A
+OH,SurveyMonkey,1995,0.5,0.45,N/A
+WV,Public Opinion Strategies ,600,0.41,0.4,N/A
+WV,Strategic Research Associates,650,0.46,0.38,N/A
+WV,1892 Polling ,500,0.45,0.45,N/A
+WV,Tarrance Group ,612,0.47,0.43,N/A
+WV,Global Strategy Group ,601,0.48,0.36,N/A
+WV,Emerson College,825,0.45,0.33,N/A
+WV,Harper Polling ,600,0.47,0.41,N/A
+WV,Research America Inc.,404,0.46,0.38,N/A
+WV,Trafalgar Group,1158,0.5,0.4,N/A
+WV,SurveyMonkey,800,0.54,0.41,N/A
+WV,Monmouth University,527,0.5,0.41,N/A
+WV,Public Policy Polling,633,0.48,0.39,N/A
+WV,Gravis Marketing,543,0.52,0.4,N/A
+WV,Garin-Hart-Yang Research Group ,602,0.52,0.4,N/A
+WV,Global Strategy Group ,600,0.49,0.41,N/A
+WV,WPA Intelligence,400,0.44,0.46,N/A
+FL,Florida Southern College,476,0.44,0.46,N/A
+FL,St. Pete Polls,2313,0.47,0.47,N/A
+FL,Public Policy Polling ,779,0.48,0.44,N/A
+FL,Strategic Research Associates,800,0.45,0.44,N/A
+FL,"Mason-Dixon Polling & Research, Inc.",815,0.47,0.46,N/A
+FL,Quinnipiac University,888,0.53,0.46,N/A
+FL,Cherry Communications ,622,0.48,0.46,N/A
+FL,Marist College,600,0.48,0.45,N/A
+FL,University of North Florida,603,0.45,0.45,N/A
+FL,Florida Atlantic University,850,0.41,0.42,N/A
+FL,Ipsos,1000,0.45,0.46,N/A
+FL,Rasmussen Reports/Pulse Opinion Research,800,0.45,0.44,N/A
+FL,SurveyUSA,634,0.44,0.46,N/A
+FL,Quinnipiac University,785,0.49,0.49,N/A
+FL,Gravis Marketing,1225,0.47,0.47,N/A
+FL,Public Policy Polling,743,0.46,0.45,N/A
+FL,St. Pete Polls,1755,0.47,0.47,N/A
+FL,Florida Atlantic University,800,0.39,0.45,N/A
+FL,Saint Leo University,500,0.36,0.4,N/A
+FL,"Mason-Dixon Polling & Research, Inc.",625,0.44,0.47,N/A
+FL,Florida Atlantic University,800,0.4,0.44,N/A
+FL,Gravis Marketing,1840,0.47,0.43,N/A
+FL,SurveyMonkey,990.4,0.45,0.52,N/A
+FL,YouGov,839,0.41,0.46,N/A
+FL,Marist College,947,0.49,0.45,N/A
+FL,Public Policy Polling,1308,0.48,0.46,N/A
+FL,Gravis Marketing,1251,0.5,0.4,N/A
+FL,Cherry Communications ,605,0.45,0.48,N/A
+FL,Saint Leo University,506,0.34,0.4,N/A
+FL,Morning Consult,1199,0.39,0.4,N/A
+FL,Florida Atlantic University,728,0.45,0.45,N/A
+FL,Public Policy Polling,661,0.5,0.44,N/A
+FL,Gravis Marketing,2212,0.44,0.4,N/A
+FL,McLaughlin & Associates ,800,0.46,0.47,N/A
+FL,Clearview Research,750,0.41,0.43,N/A
+FL,SurveyMonkey,1806,0.53,0.43,N/A
+FL,Quinnipiac University,1156,0.46,0.42,N/A
+FL,Florida Atlantic University,800,0.4,0.38,N/A
+FL,Saint Leo University,500,0.35,0.42,N/A
+FL,Gravis Marketing,1978,0.44,0.4,N/A
+FL,Florida Atlantic University,750,0.34,0.44,N/A
+FL,University of North Florida,429,0.48,0.42,N/A
+FL,"Mason-Dixon Polling & Research, Inc.",625,0.45,0.44,N/A
+FL,Gravis Marketing,5778,0.44,0.39,N/A
+FL,Saint Leo University,500,0.32,0.42,N/A
+VA,CNN/SSRS,512,0.52,0.36,N/A
+VA,Cygnal,1119,0.5,0.46,N/A
+VA,Roanoke College,512,0.51,0.34,N/A
+VA,Virginia Commonwealth University,747,0.49,0.26,N/A
+VA,Quinnipiac University,1153,0.54,0.36,N/A
+VA,Roanoke College,555,0.44,0.33,N/A
+VA,Christopher Newport University,1562,0.56,0.32,N/A
+MD,Gonzales Research & Marketing Strategies Inc. ,806,0.49,0.22,N/A
+MD,Goucher College,472,0.56,0.17,N/A
+DE,University of Delaware,728,0.61,0.24,N/A
+DE,Gravis Marketing,884,0.47,0.39,N/A
+PA,Morning Consult,1188,0.47,0.32,N/A
+PA,Franklin & Marshall College,204,0.5,0.33,N/A
+PA,Muhlenberg College,404,0.53,0.35,N/A
+PA,Ipsos,1080,0.53,0.37,N/A
+PA,Rasmussen Reports/Pulse Opinion Research,800,0.52,0.38,N/A
+PA,Franklin & Marshall College,222,0.47,0.34,N/A
+PA,Marist College,713,0.53,0.38,N/A
+PA,Commonwealth Leaders Fund,2012,0.47,0.45,N/A
+PA,SurveyMonkey,892.2,0.54,0.43,N/A
+PA,Suffolk University,500,0.47,0.32,N/A
+PA,Franklin & Marshall College,472,0.44,0.27,N/A
+PA,Muhlenberg College,414,0.48,0.32,N/A
+PA,Franklin & Marshall College,423,0.43,0.25,N/A
+PA,Public Policy Polling ,1056,0.54,0.36,N/A
+PA,SurveyMonkey,2165,0.52,0.43,N/A
+NJ,YouGov,845,0.49,0.39,N/A
+NJ,Quinnipiac University,1058,0.53,0.42,N/A
+NJ,Vox Populi Polling,794,0.52,0.48,N/A
+NJ,Fairleigh Dickinson University (PublicMind),508,0.43,0.37,N/A
+NJ,Stockton College,531,0.45,0.43,N/A
+NJ,Quinnipiac University,908,0.43,0.37,N/A
+NJ,Gravis Marketing ,753,0.4,0.3,N/A
+NJ,Gravis Marketing,563,0.43,0.41,N/A
+NJ,Fairleigh Dickinson University (PublicMind),856,0.28,0.24,N/A
+NJ,Monmouth University,632,0.53,0.32,N/A
+NJ,Quinnipiac University,1052,0.49,0.32,N/A
+RI,SocialSphere,502,0.56,0.32,N/A
+RI,University of New Hampshire,503,0.57,0.33,N/A
+RI,Fleming & Associates,420,0.54,0.35,N/A
+RI,SocialSphere,501,0.54,0.32,N/A
+CT,Quinnipiac University,767,0.57,0.42,N/A
+CT,Gravis Marketing,606,0.54,0.37,N/A
+CT,Quinnipiac University,1029,0.59,0.31,N/A
+NY,Siena College,701,0.61,0.29,N/A
+NY,Liberty Opinion Research ,2783,0.51,0.36,N/A
+NY,Siena College,745,0.61,0.28,N/A
+NY,Quinnipiac University,1076,0.58,0.23,N/A
+NY,Siena College,692,0.58,0.27,N/A
+NY,Siena College,772,0.6,0.24,N/A
+MA,University of Massachusetts Lowell,485,0.56,0.31,N/A
+MA,MassINC Polling Group,506,0.56,0.3,N/A
+MA,Suffolk University,500,0.54,0.24,N/A
+MA,Suffolk University,500,0.55,0.33,N/A
+MA,MassINC Polling Group,501,0.54,0.19,N/A
+MA,MassINC Polling Group,504,0.55,0.2,N/A
+MA,MassINC Polling Group,503,0.58,0.32,N/A
+VT,Tulchin Research ,406,0.75,0.2,N/A
+ME,Self-Made Insights ,750,0.47,0.36,N/A
+ME,Suffolk University,500,0.55,0.26,N/A
