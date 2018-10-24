@@ -16,4 +16,6 @@ This project used Bayesian inference to predict the vote share Democratic candid
 - Polling data comes from FiveThirtyEight
 
 ## Questions?
-Direct any questions to Allison Ragan via contact information at the conclusion of the presentation
+Direct any questions to Allison Ragan. 
+Email: allison.n.ragan@gmail.com
+Twitter: @RaganAllie
